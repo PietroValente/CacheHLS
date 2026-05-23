@@ -1,6 +1,5 @@
 # CacheHLS - Broadband
 
-## Overview
 The project involves creating a cache for HLS live streaming files transmitted over broadband, introducing a customizable delay in seconds. This can be useful in various testing scenarios or even in unstable broadband streams, as the cache helps to smooth out the streaming and prevent buffering.
 
 Since some servers already have an internal cache for storing chunks of several hours, there are two versions of the program:
